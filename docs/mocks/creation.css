@@ -1,0 +1,20 @@
+.column-head{display:flex;justify-content:space-between;align-items:center;min-height:40px}
+.creation-form{flex-shrink:0}.creation-form textarea{display:block;resize:none;width:100%;font-size:12px;line-height:1.6;background:#292d2c;border:1px solid #94719c;border-radius:9px;padding:12px;box-shadow:0 0 0 3px #e2a6ed0a}.creation-form textarea::placeholder{color:#a1a5a1}.composer-actions{display:flex;gap:5px;align-items:center;margin-top:9px}.composer-actions .primary{padding:7px 12px;font-size:11px}.composer-actions>span{font-size:9px;color:var(--dim);margin-left:auto}.composer-actions .icon-button{width:27px;height:27px}.composer-actions svg{width:13px;height:13px}
+[data-add=inline] .cards{flex:0 0 auto;padding-bottom:9px}
+[data-add=inline] .add-card{margin:0 2px 14px;width:calc(100% - 4px);border:1px dashed #4b504e;border-radius:9px;padding:13px 12px;font-size:12px;color:#a6afaa}
+[data-add=inline] .add-card:hover{border-color:#bc8fc5;color:var(--accent);background:var(--soft)}
+.inline-composer{margin-bottom:4px}.inline-composer textarea{min-height:94px}.inline-composer .composer-actions>span{display:none}
+.footer-composer{margin:0 -12px;padding:14px 13px 13px;border-top:1px solid #3f4541;background:#252a27;border-radius:0 0 15px 15px}
+.footer-composer textarea{min-height:76px;background:#1d2220;border-color:#77717a;padding:10px}
+[data-add=popup] .column-head{padding-top:0;padding-bottom:15px}
+.header-add{width:25px;height:25px;border:1px solid #444a47;border-radius:7px;color:#b8c0b9}
+.header-add:hover{background:#e2a6ed17;border-color:#ab83b4;color:var(--accent)}
+.header-add svg{width:13px;height:13px}
+.quick-form{display:flex;gap:5px;align-items:center;margin:0 -12px;padding:9px 10px;border-top:1px solid #3c423f;background:#242926;border-radius:0 0 15px 15px;flex-shrink:0}
+.quick-form input{padding:9px 7px;border:0;min-width:0;width:100%;font-size:11px;outline:none;background:none}
+.quick-form:focus-within{box-shadow:inset 0 -2px 0 #e2a6ed8c;background:#2a302c}
+.quick-form input::placeholder{color:#939e96}.quick-form button{flex-shrink:0;display:grid;place-items:center;width:28px;height:28px;background:#e2a6ed14;color:var(--accent);border:1px solid #e2a6ed33;border-radius:7px}.quick-form button:hover{background:#e2a6ed2a}
+.quick-form button svg{width:14px;height:14px}
+
+[data-add=inline] .board{align-items:flex-start}
+[data-add=inline] .column{min-height:0}
