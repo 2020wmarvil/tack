@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Tack">
+  <g transform="rotate(28 128 128)">
+    <ellipse cx="128" cy="65" rx="75" ry="31" fill="#e2a6ed"/>
+    <path d="M98 104C98 124 92 139 77 151C69 158 73 164 85 167C110 173 146 173 171 167C183 164 187 158 179 151C164 139 158 124 158 104Z" fill="#e2a6ed"/>
+    <path d="M113 181H143L128 244Z" fill="#eff1ef"/>
+  </g>
+</svg>
